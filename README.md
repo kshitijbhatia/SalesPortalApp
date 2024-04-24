@@ -1,6 +1,9 @@
 # Sales Portal App(Tabular)
 
 ## ScreenShots
+
+https://github.com/kshitijbhatia/SalesPortalApp/assets/108986570/dc44006e-a527-46f8-8deb-36b92746f929
+
 ### Home Page
 ![Untitled design (3) (1)](https://github.com/kshitijbhatia/SalesPortalApp/assets/108986570/f3f2a961-abc9-40a1-b37d-8187b037d986)
 ### Add Page
